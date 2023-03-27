@@ -237,7 +237,7 @@ button:hover {
   background-color: #4936f2;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 420px) {
   .container {
     width: 100dvw;
     height: auto;
